@@ -1,0 +1,10 @@
+.cartdropitem{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between ;
+    padding: 10px;
+    border-bottom: 2px  solid black;
+}
+.cartdropitem img{
+    width: 50px;
+}
